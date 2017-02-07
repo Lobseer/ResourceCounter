@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project2Resurses", "Project2Resurses\Project2Resurses.csproj", "{04103E9E-B4B3-43FB-83A2-F73F74412C7F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceCount", "Project2Resurses\ResourceCount.csproj", "{04103E9E-B4B3-43FB-83A2-F73F74412C7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
